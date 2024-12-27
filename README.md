@@ -15,8 +15,7 @@
 
 ### Projetos:
 
-![Static Badge](https://img.shields.io/badge/App-Mata_Mosquito?tyle=flat&color=blue&link=https%3A%2F%2Fmateuskina.github.io%2FmataMosquito%2F)
-
+![Static Badge](https://img.shields.io/badge/App-Mata_Mosquito?tyle=flat&color=blue)](https://mateuskina.github.io/mataMosquito/)
 
 
 
