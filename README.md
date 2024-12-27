@@ -14,6 +14,6 @@
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Projetos:
-Durante meus estudos eu fiz alguns projetos, como [Mata Mosquito](https://mateuskina.github.io/mataMosquito), [Calculadora]([https://mateuskina.github.io/calculadora/)
+Durante meus estudos eu fiz alguns projetos, como [Mata Mosquito](https://mateuskina.github.io/mataMosquito), [Calculadora](https://mateuskina.github.io/calculadora/)
 
 
