@@ -15,7 +15,7 @@
 
 ### Projetos:
 
-Mata mosquito: (https://mateuskina.github.io/mataMosquito)
-
+Mata mosquito: https://mateuskina.github.io/mataMosquito
+Calculadora: https://mateuskina.github.io/calculadora/
 
 
